@@ -2045,7 +2045,7 @@
 
 		.image img {
 			position: absolute;
-    			clip: rect(0px,60px,60px,0px);
+    			clip: rect(0px,300px,300px,0px);
 			border-radius: 0.35em;
 			display: block;
 		}
