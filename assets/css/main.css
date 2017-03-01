@@ -2007,6 +2007,8 @@
 		}
 
 		.image.thumb {
+			position: absolute;
+    			clip: rect(0px,300px,300px,0px);
 			text-align: center;
 		}
 
@@ -2044,8 +2046,7 @@
 			}
 
 		.image img {
-			position: absolute;
-    			clip: rect(0px,300px,300px,0px);
+			
 			border-radius: 0.35em;
 			display: block;
 		}
